@@ -1,0 +1,3 @@
+# Introduction
+
+Gain some additional knowledge regarding Open Science and reproducible research [@klein2018; @kathawalla2021]
