@@ -1,0 +1,99 @@
+# Discussion {#sec-discussion} 
+
+This study examined the feasibility of a peer-led mobile model to expand access
+to point-of-care HCV testing and treatment among people at risk of HCV infection
+in the community. Overall, the HCV antibody prevalence was XX% and HCV RNA
+prevalence was XX%. Awareness of infection status was suboptimal, particularly
+among those with current infection. The proportion of people linked to care and
+treatment were XX% and XX%, respectively. This study demonstrates a high
+engagement in testing and supports the feasibility of community-led testing by
+peer-workers. These data highlighting the feasibility of implementing a
+peer-led, mobile decentralized test and treat intervention with peer-operated
+point-of-care HCV RNA testing will guide clinical practice to implement similar
+models internationally. This study supports health policy by providing evidence
+to support the inclusion of peer-operated point-of-care HCV RNA testing in
+local, national, and international viral hepatitis strategy guidelines. However,
+further work is needed to understand barriers and enablers of HCV testing and
+treatment to design interventions to support linkage to HCV treatment.
+
+HCV antibody and RNA prevalence in this study was XX% and XX% respectively.
+These estimates are similar to other studies in community settings across
+Australia (ref). consistent with othother estimates from similar community-based
+settings acriss Australia derived in similar populations in. Among people weho
+inject drugs, either within the last six months or ever, the HCV antibody
+prevalence was XX% and the HCV RNA XX%.
+
+The treatment uptake observed in this study (XX%) is lower than in studies
+evaluat pingint-of-care HCV RNA testing in mobile clinics (74%) (O’Loan, et al.,
+2021), supervised consumption facilities (89% - XX) (Macisaac, et al., 2021),
+NSP (63-84%) (Howell, et al., 2022; Shilton, et al., 2022), community-based
+settings (79-91%) (Draper, et al., 2021; Ralton, et al., 2021), and prisons
+(93%) (Sheehan, et al., 2021). This study had peers leading several aspects of
+the study, ncluding stakeholder engagement, study enrollment, point-of-care HCV
+antibody testing and HCV RNA testing using the GeneExpert system. While having
+peers positioned to perform these roles had numerous benefits, doing so also
+came with it's own set of challenges
+
+This study has limitations. Given that participants were recruited from sites
+within New South Wales, Australia, the results of this study may not be
+applicable to all HCV treatment settings and populations of people who inject
+drugs. Unfortunately, information on the number of people approached for this
+study was not collected, so it was not possible to assess the reach of the study
+in terms of the proportion of people who were approached and accepted HCV
+testing. Further, participants received AUD\$20 cash reimbursement for receiving
+an HCV test, AUD\$20 for initiating treatment (if HCV RNA detected) and AUD\$20
+for completion of treatment, which may have provided additional incentive to
+return for follow-up and led to an increased treatment uptake in the study.
+Despite the renumeration, treatment uptake in this study was suboptimal, with
+rates below other studies providing mobile, peer-supported point-of-care HCV RNA
+testing (Demant et al., 2023; Midgaard et al., 2022; O’Loan, et al., 2021;
+Ralton, et al., 2021). Rates of treatment uptake were impacted by the complex
+landscape of service providers across New South Wales, many also part of
+Australia’s National Point of Care Program, and the need to ensure appropriate
+treatment pathways across different models of service provision. There were also
+logistical and financial constraints, that limited the number of participants
+recruited into the study and resulted in a smaller than anticipated sample size
+and limited the power to investigate factors associated with detectable HCV RNA
+(which is why these results are presented only descriptively).
+
+The findings from this study have important clinical, research, and policy
+implications. In order to achieve hepatitis C elimination, innovative approaches
+to improve testing and treatment among people who inject drugs are required. We
+demonstrate the success of a real-world model of care incorporating fingerstick
+HCV RNA PoCT and access to DAA therapy in engaging high-risk individuals in
+hepatitis C care. Such models of care allow higher numbers of people living with
+hepatitis C to be diagnosed, cured, and avoid the long-term sequelae of
+hepatitis C associated liver disease. The demonstration that a decentralized,
+peer-led mobile testing and treatment model is feasible has the potential to
+guide clinical practice for point-of-care HCV RNA testing for management of HCV
+infection. Furthermore, our findings support incorporating recommendations for
+increased availability and adoption of PoCT technology into national and
+international clinical guidelines, hepatitis C elimination strategies and health
+policies. Recently, the Australia government, along with industry sponsors and
+key stakeholders have funded the implementation of the National Hepatitis C
+Point-of-care Testing Program, which aims to provide scaled-up point-of-care
+antibody and RNA testing across a range of community-based sites throughout
+Australia (Grebely et al., 2023b). In addition, findings offer guidance around
+how peer-support and peer-led point-of-care testing is integrated into health
+service delivery. Although several mobile HCV clinics are operational within the
+National Australian HCV Point-of-Care Testing Program (Grebely et al. 2023), a
+randomised controlled trial comparing peer-led HCV point-of-care testing,
+peer-support throughout the treatment pathway, and standard of care among PWID
+accessing community-based health and support services with embedded health
+economic evaluation will provide critical information on the effectiveness,
+acceptability, and cost-effectiveness of the most effective testing strategy in
+community-based settings. Such programs will be crucial to ongoing
+identification of key facilitators and barriers to testing and treatment uptake,
+as well as inform the feasibility of future models of care incorporating PoCT
+across a range of global settings. Further, drawing on implementation science
+and undertaking process mapping will provide insight into key intersections
+across the diagnostic pathway that contribute to suboptimal outcomes, promoting
+a reflective and responsive approach that will help to overcome identified
+barriers. Furthermore, our findings support incorporating recommendations for
+increased availability and adoption of PoCT technology into national and
+international clinical guidelines, hepatitis C elimination strategies and health
+policies. Recently, the Australia government, along with industry sponsors and
+key stakeholders have funded the implementation of the National Hepatitis C
+Point-of-care Testing Program, which aims to provide scaled-up point-of-care
+antibody and RNA testing across a range of community-based sites throughout
+Australia (Grebely et al., 2023b)

@@ -1,3 +1,35 @@
-# Conclusion
+This preliminary study shows that a very small proportion of the input starch
 
-Although your story must be auditable and replicable by your scripts, keep in mind that not everything in your scripts needs to be in your narrative. For example, you may want to include a summary of your results in your narrative, but you don't need to include all the code that generated those results. You can include the code in a separate script file that you reference in your table summary. In this approach, you can provide the context you need to audit your results within your repository, all the while keeping your narrative focused on the story you are trying to tell.
+# Open Science Statement {-}
+
+All scripts and data used in the analysis are available on
+[OSF](https://osf.io/uc5qy/) and [Github](https://github.com/mx-jx), following
+the format provided by the rrtools package [@rrtools].
+
+
+# Author Contributions {#sec-author-contributions}
+
+To be written.
+
+# Competing interests {#sec-competing-interests}
+
+The authors declare that the research was conducted in the absence of any
+commercial or financial relationships that could be construed as a potential
+conflict of interest.
+
+# Data availability statement {#sec-data-avaialbility}
+
+All data and replication code is available at `DATAVERSE DOI` and at `OSF DOI`.
+
+# Supplementary material {#sec-supplementary-material}
+
+A companion statistical analysis notebook with a fuller description of the data,
+modeling details and diagnostics, and additional explanations of the Bayesian
+multinomial modeling approach, along with links to the data and replication
+code, is available at `ANONYMIZED URL/DOI`.
+
+# Funding {#sec-funding}
+
+The study was funded by a research grant from X. This study was also supported
+by research grants from Gilead Sciences Pty Ltd and Cepheid (provided GeneXpert
+platforms and testing). 

@@ -1,0 +1,62 @@
+# Results {#sec-results}
+
+## Participant characteristics {#sec-demographics}
+
+Overall, 609 participants were enrolled (Figure 2). The median age was 45 years,
+43% (264 of 609) were female, 60% (367 of 609) identified as Aboriginal (Table
+1), and 25% (153 of 609) were receiving OAT (Table 1). Overall, XX% (n=XX) of
+people had injected in last six months, XX% (n=XX) of people had injected ever,
+but not in the last six months and XX% (n=XX) had never injected drugs (Table
+X). A description of participant characteristics is provided in Table S1.
+
+Among those who had injected drugs in the previous six month (n=XXX), 51% (79 of
+154) had injected drugs \>daily in the previous month. Commonly injected drugs
+in the previous month included methamphetamine (60%), heroin (32%), other
+opioids (6%), cocaine (1%) and benzodiazepines (1%).
+
+## HCV testing {#sec-hcv-teating}
+
+Among the 609 participants enrolled, 100% (n=609) received a point-of-care HCV
+test. HCV testing and treatment characteristics of study participants is
+presented in Table 2. Among the 609 participants receiving point-of-care HCV
+testing, 80% (n=490) of participants received an HCV antibody test, 21% (103 of
+490) testing HCV antibody positive, and XX% (XX of 103) received a reflex
+point-of-care HCV RNA test. The remaining 20% (n=119) received immediate
+point-of-care HCV RNA testing (self-reported previous HCV infection or previous
+HCV treatment). Overall, among 217 HCV RNA tests performed, 3% (n=19) and 0.8%
+(n=5) of test returned an error or invalid , respectively.
+
+Overall, the HCV antibody prevalence was 21%% (103 of 490). HCV antibody
+prevalence was higher among people who had injected in last month (XX%, XX of
+XX, P=X.XXX), people who had injected in the last 6 months, but not in the last
+month (XX%, XX of XX, P=X.XXX), and people who had injected ever, but not in the
+last six months (XX%, X of XX, P=X.XXX) compared to people who had never
+injected drugs (XX%, XX of XX, P=X.XXX).but
+
+Overall, the HCV RNA prevalence was XX% (53 of 609). HCV RNA prevalence was
+higher among people who had injected in last month (XX%, XX of XX, P=X.XXX),
+people who had injected in the last 6 months, not in the last month (XX%, XX of
+XX, P=X.XXX), and people who had injected ever, but not in the last six months
+(XX%, XX of XX, P=X.XXX) compared to people who had never injected drugs (XX%,
+XX of XX, P=X.XXX).
+
+Among all people receiving HCV RNA testing (n=215), 26% (n=53) had detectable
+and quantifiable HCV RNA. The characteristics of people with detectable HCV RNA
+are provided in Table S5. Among those with detectable HCV RNA (n=53), 19% (n=7)
+had previously received HCV treatment.
+
+## Awareness of HCV infection status {#sec-hcv-awareness}
+
+Among all participants, XX% (n=XXX/XXX) were aware of their HCV infection status
+(Table X). After excluding participants who were never tested (n=XXX) and who
+did not report a status (n=XXX), the agreement between self-reported and
+laboratory results was XX% (XXX/XXX) (Table X). Awareness was higher among those
+not currently infected (HCV RNA undetectable) (XX%, n=XXX/XXX) compared to those
+with current HCV infection (XX%, n=XXX/XXX) (Table X).
+
+## HCV treatment uptake {#sec-treatment-uptake}
+
+Among 53 people with detectable HCV (\>limit of quantification), 25% (13 of 53)
+initiated DAA treatment through the study. Among these 13 participants, the
+median age was 51 years, 40% (4 of 10) were female, and 10% (1 of 10) had
+injected drugs in the previous month.

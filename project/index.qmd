@@ -1,8 +1,42 @@
-# Abstract {.unnumbered .unlisted}
+## Abstract {.unnumbered}
 
-This is a template to create a project article using the [Quarto book](https://quarto.org/docs/books/) and [TIER protocol 4.0](https://www.projecttier.org/tier-protocol/protocol-4-0/) structures. Quarto is a document authoring and publishing tool that allows you to create books, reports, and other documents that are rich in content and fully reproducible. It is integrated with RStudio and is built on markdown and works with R language, Python, Julia, and Observable. The TIER protocol 4.0 specifies the contents and organization of reproduction documentation for a project involving computations with statistical data analysis. The project is already configured for versioning with Git/GitHub, environment control with `renv`, and publication on GitHub Pages.
+**Background:** Community-based, socially responsive peer-led approaches to
+hepatitis C (HCV) testing and treatment can improve access, increase uptake, and
+overcome barriers to care. We examined the feasibility of a decentralized mobile
+peer-led test and treat intervention integrating peer-operated point-of-care HCV
+RNA testing and peer-facilitated linkage to care.
+
+**Methods:** Peers On Wheels (POW) is an observational cohort study of a
+peer-led mobile model to expand point-of-care HCV testing to people with recent
+injecting drug use recruited between July 2022 and May 2023 at 11 locations in
+New South Wales, Australia. The study was co-designed and implemented by a
+peer-based organisation representing people who use drugs. Participants received
+incentives, point-of-care HCV antibody (Abbott Bioline) and RNA testing (Xpert
+HCV Viral Load Fingerstick) performed by peers, same-day receipt of test results
+(on-site, via phone, text message or upon return to the service), and
+peer-assisted linkage to care and treatment. The proportion of people accepting
+HCV testing and initiating HCV treatment were assessed.
+
+**Results:** Between September – X 2023, X participants were enrolled. Of these,
+X (X%) were male, X (X%) homeless, X (XX%) were receiving opioid agonist
+treatment, XX (XX%) had injected drugs ever and XX (XX%) had injected drugs in
+the past month. Among those offered an HCV test, XX% (n=XX) accepted testing and
+XX% (n=XX) were HCV RNA detectable. Among those with current HCV (n=53), XX
+(XX%) were linked to care and XX (XX%) initiated treatment. Reasons for not
+initiating treatment included loss to follow-up (n=XX), XX, and XX.
+
+**Conclusion:** A peer-led mobile model led to a high acceptance of
+point-of-care HCV testing among people at risk of HCV infection, with XX%
+initiating treatment. This peer-led mobile model facilitated an expanded reach
+of testing and diagnosis, but further strategies should be explored to
+facilitate enhanced linkage to care and treatment.
 
 **Key-words:** Open Science, Reproducibility, Quarto, TIER Protocol 4.0, R language, RStudio, Git, GitHub, renv, GitHub Pages.
+
+## Code {.unnumbered}
+
+All the raw code and data for this paper is available in a [GitHub
+repository](https://github.com/mx-jx/peers-on-wheels).
 
 **How cite this template:**
 

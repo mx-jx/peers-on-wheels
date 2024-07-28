@@ -1,0 +1,202 @@
+# Methods {#sec-methods}
+
+## Study design and participants {#sec-study-design}
+
+In this observational cohort study, we enrolled participants through a peer-led
+mobile model consisting of peer-supported engagement, financial incentives,
+point-of-care HCV testing, and linkage to care and treatment among people at
+risk of HCV infection or attending a service providing care for people at risk
+of HCV infection. Participants were enrolled via community-based outreach
+activities at XX sites, including X (n=X), X (n=X), and X (n=X) in New South
+Wales, Australia from Month Year and Month Year
+
+Participants were 18 years or older and had a risk factor for the acquisition of
+HCV infection (including current or past injecting drug use, previous
+incarceration, engagement with community-services, indigenous and diagnoses with a substance use disorder or other psychiatric condition) or were attending a
+service caring for people with risk factors for the acquisition of HCV
+infection. This project was conducted as a sub-study of the National Australian
+HCV Point-of-Care Testing Program, an observational cohort study evaluating
+point-of-care HCV testing scale-up in Australia (Grebely et al., 2013).
+
+## Model of care development {.unnumbered}
+
+The Peers on Wheels project was led, developed, and implemented by a peer-based
+organisation representing people who use and inject drugs, the New South Wales
+Users and AIDS Association (NUAA) through a co-design process including
+researchers (The Kirby institute, UNSW), health policy makers (New South Wales
+Health), service providers, and people who use drugs. Project governance
+included a steering committee consisting of representatives from each
+organisation that met fortnightly to design the study protocol, approve plans
+for data analysis and provide implementation oversight.
+
+The campaign schedule and local logistics were organized by NUAA. Site locations
+for testing campaigns were identified and selected by peers with local expertise
+and knowledge (part of the NUAA peer network) in consultation with local health
+districts. Criteria for site location selection included the identification of
+localised areas where people who inject drugs could be reached or were known to
+visit and where accessible HCV testing and treatment was suboptimal. Knowledge
+generated through consultation with local peers and networks of people who use
+drugs was leveraged to identify fieldwork locations prior to each campaign. Site
+locations were also informed by the need to set up a welcoming area for people
+to understand what was happening, and to accommodate testing equipment and
+treatment processes. In addition to peer workers from Sydney, a local peer that
+was part of the NUAA peer network who was familiar with the local area was
+employed for the duration of the fieldwork within a particular location to
+ensure local expertise and knowledge.
+
+Substantive work for each campaign was carried out to prior to visiting each
+site location. This included regular communication with key personnel within the
+local health district (e.g. service managers, health promotion workers) and
+those involved in the management of HCV care (e.g. nurses, physicians,
+specialists) to develop pathways to enhance linkage to treatment.
+
+The peer-led mobile model was delivered through a van and included a range of
+personnel, including a peer project coordinator (managed site logistics on
+testing days), 1-2 peer point-of-care testing operators (who were trained in
+point-of-care HCV antibody testing and RNA testing using a GeneXpert
+instrument), a local peer, and at least one person from the local health
+district. For the purposes of this project, “peers’ were defined by a range of
+characteristics including, people with lived and living experience of drug use
+(including injecting drug use) and viral hepatitis, connection with a drug-user
+social identity, and relatedness to communities of people who use drugs (Greer
+et al., 2016). Prior to implementation of the project, project staff (i.e.
+peers) were trained to undertake point-of-care HCV antibody and RNA testing
+through theoretical and practical training (online and remotely) provided by the
+International Centre for Point-of-Care Testing at Flinders University. In total,
+four peers were trained as operators of the GeneXpert instrument and as
+qaulified to administer the [Bioline](www.bioline.com) and
+[Insti](www.insti.com)
+
+## Study setting {#sec-study-setting}
+
+Between X 2022 and 23 August 2023, X sites were visited across three local
+health districts in New South Wales, Australia, including Hunter New England
+(urban/regional), Mid-North Coast (regional) and South Eastern Sydney (urban)
+(see Figure 1). Fieldwork campaigns ranged from three to five days at a given
+location with multiple campaigns being held within each local health district.
+Fieldwork occurred in a range of spaces and services, including pharmacies where
+people accessed drug treatment, district hospitals, car parks in front of
+community services, community service hubs, parks in the community, allied
+services and private locations proposed by participants (e.g., private houses).
+Services were provided via drop-in visits and no appointments were required.
+
+## Procedures {#sec-procedures}
+
+The POW Project was advertised generally two weeks preceding the events with
+posters in local clinics and other services (including the details of when and
+where the campaign was occurring), referral through health services (e.g. wallet
+cards), website and NUAA communication channels and via word of mouth.
+Recruitment within each campaign spanned 1 to 5 days at each site location
+concurrent with defined pathways for linkage to HCV care and treatment. The
+mobile and flexible nature of the model often allowed for multiple sites to be
+visited in a single day.
+
+Enrolment assessments included peer-administered behavioural questionnaires on
+tablet computers (demographics, behavioural risk, and previous HCV testing and
+treatment) and peer-administered point-of-care HCV antibody testing (Abbott
+Bioline HCV, City, Country) and/or point-of-care HCV RNA testing \[Xpert HCV
+Viral Load Fingerstick Assay (Cepheid, Sunnyvale, United States; lower limit of
+quantification 100 IU/ml, upper limit of quantification 108 log10 IU/ml; 100%
+sensitivity, 100% specificity)\]. A peer collected a capillary whole-blood
+sample from participants via a fingerstick (Safety Lancet, Super Blade \[Order
+Number 85.1018\], Sarstedt, Nümbrecht, Germany) using procedures recommended by
+the WHO (WHO, 2010) and collected into a 100-uL minivette collection tube
+(Minivette POCT 100μl K3E \[Order number 17.2113.101\], Sarstedt, Nümbrecht,
+Germany). Immediately following collection, 100 uL of capillary whole blood was
+placed directly into the Xpert HCV VL Fingerstick assay cartridge (lower limit
+of quantification of 100 IU/mL; Cepheid, Sunnyvale) for on-site HCV RNA testing.
+The cartridge was loaded into the GeneXpert instrument which uses real-time PCR
+(rt-PCR) technology that enables the quantification of HCV RNA levels (Cepheid,
+2019). The time to result for Xpert HCV VL Fingerstick testing is 58 minutes.
+All Xpert HCV Viral Load assay testing were performed on a clinic-based
+GeneXpert R2 6-colour, 4 module machine (GXII-2-L System, GeneXpert Dx software
+v4.6a; Cepheid, Sunnyvale) operated as per the manufacturer’s instructions
+(Cepheid, 2019).
+
+Initially, point-of-care HCV RNA testing was immediately performed for all
+participants (Month XX, XXXX to Month XX, XXXX). However, after a review of data
+demonstrating a lower-than-expected prevalence of current HCV infection during
+the first two campaigns (XX site locations), the protocol was revised in Month
+XXXX so that all participants without a history of HCV treatment received
+point-of-care HCV antibody with reflex point-of-care HCV RNA testing and
+participants who had previously received treatment received immediate
+point-of-care HCV RNA testing.
+
+While waiting for the HCV RNA test result, participants could access food and
+refreshments, sterile injecting equipment, naloxone, sexual health resources,
+and harm reduction supplies. During this time, a peer would engage with the
+participant about available services offered by NUAA such as their online NSP
+shop with state-wide postal delivery. Nominated staff from the respective LHDs
+were provided to support and assist with testing on the day. All participants
+were compensated at completion of an HCV antibody or HCV RNA test (AUD\$20
+cash), initiation (AUD\$20 cash) and completion (AUD\$20 cash) of treatment.
+
+Participants with detectable HCV RNA were offered a clinical assessment with a
+nurse or appropriate h ealthcare professional to assess suitability for DAA
+therapy and linked to a peer support worker when such support was available.
+Participants deemed not suitable for treatment under this simplified model of
+care were referred for follow-up through standard of care. NUAA’s Treatment
+Assisted Pathway Consent process (Model of Care) is an important component of
+this treatment pathway approach whereby NUAA obtained consent to maintain
+contact and assist the participant in treatment navigation, treatment
+initiation, and treatment completion.
+
+Arrangements were put in place with a local pharmacy to facilitate streamlined
+dispensing of DAA therapy. Following clinical assessment and a decision to
+initiate DAA therapy, the project PI would contact a physician via telephone to
+arrange a script and an email would be sent to the pharmacy to allow medication
+dispensing (with a hard copy of the script delivered the next day). The
+medication was either directly dispensed to the client at the pharmacy or the
+nurse or peer would pick up the medication from the pharmacy for collection at
+the NSP by the client.
+
+A dedicated peer worker provided education and engagement. This peer played a
+pivotal role in the study and was responsible for several components including
+facilitating health promotion activities, leading engagement in testing as
+people were accessing services (e.g., people accessing pharmacies for dosing as
+part of opioid agonist treatment), providing a bridge between participants and
+clinical staff at the service, providing expertise and support for the
+completion of research survey, and providing ongoing support for participants
+who initiated treatment through weekly communication and follow-up (most often
+via telephone).
+
+## Outcomes {-}
+
+The primary outcome was the proportion of people who received HCV testing.
+Secondary outcomes included the proportion of people with current HCV infection
+(HCV RNA detected with the Xpert HCV Viral Load Fingerstick assay) and among
+those with current HCV infection, the proportion linked to HCV care and
+initiating HCV treatment within 12 weeks of enrolment.
+
+## Statistical analysis {#sec-statistical-analysis}
+
+Categorical data were summarized and reported as N (%), continuous data as
+median (interquartile range \[IQR\]). Analyses of the primary outcome and the
+cascade of care were performed among all HCV RNA positive participants.
+Proportions with detectable HCV RNA (viremic prevalence) were reported among all
+participants with a valid point-of-care test result. All statistical analyses
+were done using R version 4.2.2 (The R Project for Statistical Computing, 2022)
+using the final fit and gtsummary summary package.
+
+## Study oversight {#sec-study-oversight}
+
+All participants provided written informed consent before study procedures. The
+study protocol and amendments were approved by the Human Research Ethics
+Committees at St Vincent’s Hospital, Sydney (HREC Ref: HREC/17/SVH/113) and the
+Aboriginal Health and Medical Research Council (HREC Ref: 1279/17). This study
+was conducted according to the Declaration of Helsinki and International
+Conference on Harmonization Good Clinical Practice (ICH/GCP) guidelines.
+
+## Role of the funding source {#sec-role-funding}
+
+The study was funded by a research grant from X. This study was also supported
+by research grants from Gilead Sciences Pty Ltd and Cepheid (provided GeneXpert
+platforms and testing). The funders had no role in the study design, data
+collection, analysis, interpretation of the results, the writing of the report
+or the decision to submit the report for publication. JG, CH and MJS had access
+to the raw data. The sponsor (The Kirby Institute, UNSW Sydney) co-designed the
+study with the NSW Users and AIDS Association (NUAA). NUAA collected the data,
+managed study samples, monitored study conduct, and performed the required
+quality assurance measures on the GeneXpert system. JG, CH, and MJS were
+responsible for the decision to submit for publication.
+

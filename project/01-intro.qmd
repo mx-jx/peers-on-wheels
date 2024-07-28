@@ -1,3 +1,44 @@
 # Introduction
 
-Gain some additional knowledge regarding Open Science and reproducible research [@klein2018; @kathawalla2021]
+The World Health Organization has set a goal to eliminate hepatitis C virus
+(HCV) infection as a major public health threat by 2030, with targets to
+increase HCV diagnoses and treatment, and reduce new infections and
+liver-related deaths (WHO, 2017). However, despite strong early treatment uptake
+[@alavi2019] , annual treatment numbers have declined and data now suggests that
+for Australia to achieve hepatitis C elimination, testing rates must increase by
+at least 50% among people who inject drugs [@scott2020]. Increasing uptake of
+HCV testing and treatment is hampered by lack of appropriate testing modalities
+and inaccessible models of service provision, limited support along current
+diagnostic pathways, and exposure to drug-related stigma and discrimination,
+amplified in key populations, such as people who inject drugs [@grebely2017;
+@madden2018; @gibbs2021]
+
+Although the availability of point-of-care testing for the detection of active
+HCV infection in one hour has improved HCV clinical management, globally
+[@draper2020; @macisaac2024; @shih2023], significant barriers to HCV testing and
+treating exist [@grebely2024]. Despite studies demonstrating that point-of-care
+HCV RNA testing and treatment is associated with increased test acceptability
+[@bajis2017], reductions in loss to follow-up and enhanced treatment uptake
+[@alavi2019; @iversen2019], testing and treatment in community-based settings
+still remains inaccessible to marginalized and underserved populations of people
+who use drugs [@demant2023]. Although studies have evaluated mobile HCV clinics
+[@demant2023; @midgard2022; @ryan2021; @rennert2024], few studies have evaluated
+a decentralized mobile peer-led test and treat intervention which comprises
+point-of-care HCV RNA testing performed by peers and peer-facilitated linkage to
+care.
+
+In addition to peer-led strategies to enhance testing, interventions are
+required to enhance engagement and maintenance in care for people with ongoing
+injecting drug use [@cunningham2022]. Peer-assisted linkage to care (also called
+peer-support) across all stages of the treatment pathway has been demonstrated
+to be an important intervention to facilitate HCV testing, linkage to
+care/treatment, and maintained engagement in care [@crawford2013; @grebely2023;
+@henderson2017' @treloar2015; @ward2019]). Peer-assistance at all stages of the
+cascade of care creates an opportunity for relatedness, knowledge sharing, trust
+and rapport, and allows for the introduction of wider psychosocial support
+mechanisms and avenues for health-promotion [@crawford2013; @surey2019;
+@surey2021; @satinsky2021].
+
+This study presents the results of an interventional cohort study evaluating a
+decentralized mobile peer-led test and treat intervention integrating
+peer-operated point-of-care HCV RNA testing, peer-assisted linkage to care.
